@@ -5,7 +5,17 @@
 
 So I turned it into something you can actually *understand*.
 
----
+## ⚡ Try it
+
+👉 **[Try NationalDebtGPT](https://chatgpt.com/g/g-69c2baf279bc819186d3f80e432df4d7-nationaldebtgpt-your-share-of-the-gov-debt)**
+Free to use with a ChatGPT account.
+Takes ~10 seconds.
+
+## 🔥 If you find this interesting
+
+* ⭐ Star the repo
+* 👽 Share it somewhere (Reddit, X, HN, etc.)
+* ✉️ Ask it to draft an email to your senators and representatives
 
 ## 🤖 What this is
 
@@ -13,8 +23,6 @@ A Custom GPT that lets you **chat with the U.S. government’s financial stateme
 
 Not summaries. Not opinions.
 The actual report.
-
----
 
 ## 🧠 What it does
 
@@ -30,16 +38,6 @@ You can ask things like:
 * “What does this mean for inflation?”
 * “Is this sustainable?”
 
----
-
-## ⚡ Try it
-
-👉 **[Try NationalDebtGPT](https://chatgpt.com/g/g-69c2baf279bc819186d3f80e432df4d7-nationaldebtgpt-your-share-of-the-gov-debt)**
-Free to use with a ChatGPT account.
-Takes ~10 seconds.
-
----
-
 ## 📊 Where the data comes from
 
 This is based on the official **U.S. Government Accountability Office (GAO)** report:
@@ -49,8 +47,6 @@ This is based on the official **U.S. Government Accountability Office (GAO)** re
 It’s ~259 pages long.
 
 Most people will never read it.
-
----
 
 ## 💡 Why this exists
 
@@ -63,8 +59,6 @@ So the question was:
 
 > What if you could just *talk* to it instead?
 
----
-
 ## 👀 What makes this interesting
 
 “Trillions” doesn’t register.
@@ -76,16 +70,6 @@ But:
 
 That *does*.
 
----
-
-## 🔥 If you find this interesting
-
-* ⭐ Star the repo
-* 🧠 Ask it something weird
-* 👽 Share it somewhere (Reddit, X, HN, etc.)
-
----
-
 ## ⚙️ Build your own (2 min)
 
 1. Open the **[Custom GPT editor](https://chatgpt.com/gpts/editor)**
@@ -93,14 +77,12 @@ That *does*.
 3. Upload the GAO report
 4. Done
 
----
-
 ## 🧩 TL;DR
 
 A 259-page government debt report
 → turned into something you can actually *use*
 
-📜 License
+## 📜 License
 
 MIT Licensed.
 Free and open source.
