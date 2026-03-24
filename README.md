@@ -7,7 +7,7 @@ So I turned it into something you can actually *understand*.
 
 ## ⚡ Try it
 
-👉 **[Try NationalDebtGPT](https://chatgpt.com/g/g-69c2baf279bc819186d3f80e432df4d7-nationaldebtgpt-your-share-of-the-gov-debt)**
+👉 **[Try NationalDebtGPT](https://chatgpt.com/g/g-69c2baf279bc819186d3f80e432df4d7-nationaldebtgpt-1-0)**
 Free to use with a ChatGPT account.
 Takes ~10 seconds.
 
