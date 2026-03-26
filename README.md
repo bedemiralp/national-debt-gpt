@@ -1,3 +1,4 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 # 💸 NationalDebtGPT
 
 > The U.S. national debt is over **$34 trillion**.
